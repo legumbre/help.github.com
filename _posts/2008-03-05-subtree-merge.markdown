@@ -124,4 +124,4 @@ $ git pull -s subtree panda master
 Resources
 ---------
 
-* [How to use the subtree merge strategy](http://www.kernel.org/pub/software/scm/git/docs/howto/using-merge-subtree.html)
+* [How to use the subtree merge strategy](https://raw.github.com/gitster/git-htmldocs/master/howto/using-merge-subtree.txt)
